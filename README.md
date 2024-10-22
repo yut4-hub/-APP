@@ -8,4 +8,4 @@ This is a software packed by Python. The main function of this app is to transfo
 3. 点击转换按钮，成功则显示转换成功
 4. 保存文件
 
-<img> src="./screenshot.jpg"
+<img src="./screenshot.jpg">
